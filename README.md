@@ -4,7 +4,7 @@ This project aims to build and train an AI to learn one's interest and have the 
 
 General overview as follows:
   - Go through and analyze Tinder API, understand how it works and what pieces of information are available (Done);
-  - Create Python Classes that calls the Tinder API to perform actions such as Like, Dislike (Done);
+  - Create Python Classes that communicate with Tinder API to perform actions such as Like, Dislike (Done);
   - Download photos of people nearby, save them to a local folder for analysis and training (Done);
   - Write mouse-event classifier using TKinter for picture labeling (Done);
   - Build a pre-processor using TensorFlow Object Detection API for human recognition (In Progress);
